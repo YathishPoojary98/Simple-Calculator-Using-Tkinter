@@ -17,7 +17,7 @@ Tkinter (usually included with Python installations)
 Installation:
 
 Clone the Repository:
-git clone https://github.com/yourusername/Simple-Calculator-Using-Tkinter.git
+git clone https://github.com/YathishPoojary98/Simple-Calculator-Using-Tkinter.git
 
 cd Simple-Calculator-Using-Tkinter
 
