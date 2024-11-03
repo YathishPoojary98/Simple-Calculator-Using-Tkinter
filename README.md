@@ -18,6 +18,7 @@ Installation:
 
 Clone the Repository:
 git clone https://github.com/yourusername/Simple-Calculator-Using-Tkinter.git
+
 cd Simple-Calculator-Using-Tkinter
 
 Run the Application:
