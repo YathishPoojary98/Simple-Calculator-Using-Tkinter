@@ -1,4 +1,4 @@
-Simple Calculator
+# Simple Calculator Using TKinter
 This is a simple calculator application built using Python's Tkinter library. It provides a graphical user interface (GUI) for performing basic arithmetic operations.
 
 Features:
