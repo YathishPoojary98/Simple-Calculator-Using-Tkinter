@@ -1,36 +1,57 @@
-# Simple Calculator Using TKinter
-This is a simple calculator application built using Python's Tkinter library. It provides a graphical user interface (GUI) for performing basic arithmetic operations.
+# 🧮 Simple Calculator Using Tkinter
 
-Features:
+This is a **simple calculator application** built using **Python's Tkinter library**. It provides a **graphical user interface (GUI)** for performing basic arithmetic operations.
 
-Basic Operations: Perform addition, subtraction, multiplication, and division.
-Dynamic Display: Shows current input and result in real-time.
-Clear and Backspace: Clear the input or delete the last character.
-Error Handling: Displays error messages for invalid expressions.
-Exit Button: Close the application easily.
+---
 
-Requirements:
+## 🚀 Features
 
-Python 3.x
-Tkinter (usually included with Python installations)
+✅ **Basic Operations** – Perform **addition, subtraction, multiplication, and division**.  
+✅ **Dynamic Display** – Shows **current input and result** in real-time.  
+✅ **Clear and Backspace** – Reset the input or delete the last character.  
+✅ **Error Handling** – Displays **error messages** for invalid expressions.  
+✅ **Exit Button** – Close the application easily.  
 
-Installation:
+---
 
-Clone the Repository:
+## 🛠 Requirements
+
+- **Python 3.x**  
+- **Tkinter** (usually included with Python installations)  
+
+---
+
+## 📥 Installation
+
+### 1️⃣ Clone the Repository
+
+```bash
 git clone https://github.com/YathishPoojary98/Simple-Calculator-Using-Tkinter.git
+```
 
+Navigate into the cloned directory:
+
+```bash
 cd Simple-Calculator-Using-Tkinter
+```
 
-Run the Application:
+### 2️⃣ Run the Application
 
-Ensure you have Python installed, then run the following command:
+Ensure you have Python installed, then execute the following command:
+
+```bash
 python calculator.py
+```
 
+---
 
-Usage:
+## 🎮 Usage
 
-Click the number buttons (0-9) and operation buttons (+, -, *, /) to input your calculation.
-Use the = button to evaluate the expression.
-Use the Clear button to reset the input.
-Use the ← button to delete the last character.
-Click Exit to close the application.
+1️⃣ **Click** the number buttons (**0-9**) and operation buttons (**+, -, *, /**) to input your calculation.  
+2️⃣ **Press `=`** to evaluate the expression.  
+3️⃣ **Use the `Clear` button** to reset the input.  
+4️⃣ **Use the `←` button** to delete the last character.  
+5️⃣ **Click `Exit`** to close the application.  
+
+---
+
